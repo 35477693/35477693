@@ -5,7 +5,7 @@ const Emanuel = {
   code: [Javascript],
 }
 ```
-<h2>"Estudio con Argentina Programa 4.0"</h2>
+<h2>"Estudiante de Argentina Programa 4.0"</h2>
 <center><a href='https://postimg.cc/QBBgTvyQ' target='_blank'><img src='https://i.postimg.cc/QBBgTvyQ/argentina-1376980-960-720.png' border='0' alt='argentina-1376980-960-720'/></a><center>
   
 <h3> Herramientas🛠️ </h3>
